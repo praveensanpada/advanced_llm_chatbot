@@ -1,0 +1,8 @@
+13:36:34 [INFO] User: Hi
+13:36:34 [INFO] Corrected: Hi!
+13:36:34 [INFO] Intent detected: greeting
+13:36:34 [INFO] Bot: Hello! 👋 How can I help you today?
+13:36:42 [INFO] User: How Are you
+13:36:42 [INFO] Corrected: How Are You Getting to Know Yourself?
+13:36:42 [INFO] Intent detected: unknown
+13:36:42 [INFO] Bot: 🤔 I'm not sure how to answer that yet. Can you rephrase or ask another way?
